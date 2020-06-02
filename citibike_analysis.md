@@ -6,10 +6,6 @@ Kate and her friend Sam biked everywhere during their trip to New York to visit 
 
 The process of making this business successful in Des Monies is going to be different than New York. The first step is to figure out how bike sharing business actually works in New York city. From there Kate and Sam will create a proposal on how it will work in Des Monies.
 
-## *Resources*
-*  201908-citibike-tripdata.csv from Citi Bike System Data page.
-* Tableau software for data visualization.
-
 ## *Link To Tableau Dashboard*
 
 [link to dashboard]()
@@ -50,3 +46,4 @@ Des Monies have lower population, but it looks quite similar to New York in some
 3. http://www.city-data.com/city/Des-Moines-Iowa.html and https://openweathermap.org/city/5128581
 
 4. https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=United+States&city1=Des+Moines%2C+IA&country2=United+States&city2=New+York%2C+NY 
+
